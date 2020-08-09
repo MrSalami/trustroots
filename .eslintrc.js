@@ -140,8 +140,6 @@ module.exports = {
         AppConfig: true,
         L: true,
         moment: true,
-        PruneCluster: true,
-        PruneClusterForLeaflet: true,
       },
       parser: 'babel-eslint',
       parserOptions: {
